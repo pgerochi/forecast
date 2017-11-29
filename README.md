@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/1335470/33351159-68a911d6-d470-11e7-9af5-5e6eff7542fa.png" width="200px">
+    <img src="https://user-images.githubusercontent.com/1335470/33391492-334b2140-d507-11e7-8a90-c1474b31de79.png" width="200px">
     <h3 align="center">Weather App made using Electron<br></h3>
 </p>
 
