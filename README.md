@@ -3,7 +3,7 @@
     <h3 align="center">Weather App made using Electron<br></h3>
 </p>
 
-## Prerequisites
+## Note
 Designs are still under contruction within the app.
 
 <hr>
