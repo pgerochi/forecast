@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="" width="150">
-    <h3 align="center">Weather App made using [Electron](https://electron.atom.io/)<br></h3>
+    <img src="https://user-images.githubusercontent.com/1335470/33351048-ec7c4f74-d46f-11e7-8562-0a83f2447e84.png">
+    <h3 align="center">Weather App made using Electron<br></h3>
 </p>
 
 ## Prerequisites
@@ -8,17 +8,11 @@ Designs are still under contruction within the app.
 
 <hr>
 
-## Prerequisites
-- Install Git - [Git](https://git-scm.com/) 
-- Install NodeJS - [nodejs.org](https://nodejs.org/en/download/)
-- A text editor, I use [VS CODE](https://code.visualstudio.com/) 
-
-
 ## Install
 Clone the repo via git:
 
 ```bash
-git clone 
+git clone https://github.com/pgerochi/forecast.git
 ```
 
 And then install dependencies.
