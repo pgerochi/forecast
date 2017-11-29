@@ -1,0 +1,30 @@
+{
+  "name": "scotiabank-electron-workshop-101",
+  "version": "1.0.0",
+  "description": "Simple app to get Electron up and running, then packaging it into your own application.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/pgerochi/scotiabank-electron-workshop-101",
+  "keywords": [
+    "Electron",
+    "Scotiabank",
+    "Workshop",
+    "Tutorial"
+  ],
+  "author": {
+    "name": "Peony Gerochi",
+    "email": "peonygerochi@gmail.com",
+    "url": "https://github.com/pgerochi"
+  },
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "electron": "~1.7.8",
+    "electron-connect": "^0.6.2",
+    "menubar": "^5.2.3"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}

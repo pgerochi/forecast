@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Weather</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:500,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/css/style.css" media="screen" charset="utf-8">
+    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script> 
+    <script charset="utf-8">
+      require('electron-connect').client.create()
+      require('./index')
+    </script>
+  </head>
+  <body>
+    <div class="wrapper header">
+      <div class="col-md-12">
+          <button class="btn btn-default js-refresh-action">
+              <span class="icon icon-arrows-ccw js-refresh-action" title="Refresh"></span>
+            </button>
+
+            <button class="btn btn-default js-quit-action">
+              <span class="icon icon-cancel js-quit-action" title="Quit"></span>
+            </button>
+
+      </div>
+    </div>
+    <div class="wrapper">
+      <div class="column col-md-12 text-center">
+        <div id="weatherIcon"></div>
+        <div class="weather-information">
+            <div class="city">&nbsp;</div>
+            <div class="province">&nbsp;</div>
+        </div>
+      </div>
+      <div class="column col-md-12 text-center">
+        <div class="weather-information small-text">
+          <div>feels like</div>
+          <div class="apparent">&nbsp;</div> 
+          <div class="summary">&nbsp;</div> 
+        </div>
+      </div>
+      <div class="column col-md-12 text-center">
+          <div class="temperature">&nbsp;</div>
+      </div>
+   
+      <div class="column col-md-6 text-center">
+          <div class="title wind">&nbsp;</div>
+          <div class="description">wind speed</div>
+      </div>
+
+      <div class="column col-md-6 text-center">
+          <div class="title wind-direction">&nbsp;</div>
+          <div class="description">wind direction</div>
+      </div>
+      
+      <div class="column col-md-6 text-center">
+          <div class="title humidity">&nbsp;</div>
+          <div class="description">humidity</div>
+      </div>
+      <div class="column col-md-6 text-center">
+          <div class="title precipitation-chance">&nbsp;</div>
+          <div class="description">precipitation</div>
+      </div>
+    </div>
+  </body>
+</html>
