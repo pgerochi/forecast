@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/1335470/33391492-334b2140-d507-11e7-8a90-c1474b31de79.png">
+    <img src="https://user-images.githubusercontent.com/1335470/33391492-334b2140-d507-11e7-8a90-c1474b31de79.png" width="200px">
     <h3 align="center">Weather App made using Electron<br></h3>
 </p>
 
-## Prerequisites
+## Note
 Designs are still under contruction within the app.
 
 <hr>
