@@ -3,6 +3,11 @@
     <h3 align="center">Weather App made using Electron<br></h3>
 </p>
 
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/1335470/33811852-ba9f82b2-dde5-11e7-94c6-595e32072898.png" width="800px">
+    <a href="http://caryltanportfolio.com/" target="_blank">UI by Caryl Tan</a>
+</p>
+
 ## Note
 Designs are still under contruction within the app.
 
