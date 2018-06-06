@@ -5,7 +5,6 @@
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/1335470/33811852-ba9f82b2-dde5-11e7-94c6-595e32072898.png" width="800px"><br/>
-    <a href="http://caryltanportfolio.com/" target="_blank">UI by Caryl Tan</a>
 </p>
 
 ## Note
